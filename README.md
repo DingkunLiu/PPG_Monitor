@@ -11,6 +11,6 @@ HRV analysis: plot n-t curve and histogram of heart rate
 
 
 block diagram:  
-![alt text](https://github.com/DingkunLiu/PPG_Monitor/tree/master/Img/PPG_EXP.jpg)  
+![Alt text](Img/PPG_EXP.png)  
 GUI Main Window:  
-![alt text](https://github.com/DingkunLiu/PPG_Monitor/tree/master/Img/GUI.jpg)  
+![Alt text](Img/GUI.jpg)  
