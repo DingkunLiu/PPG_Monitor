@@ -10,7 +10,7 @@ Real time heart rate calculation: Pan Tompkins algorithm
 HRV analysis: plot n-t curve and histogram of heart rate  
 
 
-block diagram:
-
-GUI Main Window:  
-
+block diagram:  
+![alt text](https://github.com/DingkunLiu/PPG_Monitor/tree/master/Img/PPG_EXP.jpg)  
+GUI Main Window:  
+![alt text](https://github.com/DingkunLiu/PPG_Monitor/tree/master/Img/GUI.jpg)  
