@@ -12,12 +12,13 @@ Hardware Requirement
 
 Features:  
 ----------
-Communication: Serial Port: Baud Rate: 115200  
-GUI: programmed in PyQt5  
-PPG wave display: use matplotlib  
-Real time heart rate calculation: Pan Tompkins algorithm  
-HRV(Heart rate variability) analysis: When stop collection, user could press "HRV" buttom to   
-  plot n-t curve and histogram of heart rate. Result can be found in PC directory.  
+**Communication**: Serial Port: Baud Rate: 115200  
+**GUI**: programmed in PyQt5  
+**Real-time PPG wave display**: with matplotlib  
+**Real-time heart rate calculation**: Modified Pan Tompkins algorithm (Differential threshold method)  
+**HRV(Heart rate variability) analysis**: (Should pause data processor first.) Press "HRV" buttom to   
+  plot heart rate curve over time and heart rate distribution histogram.  
+  Result can be found in "./PC/result.png".  
 
 Usage:  
 ----------  
