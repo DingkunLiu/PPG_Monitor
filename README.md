@@ -1,7 +1,14 @@
 PPG_Monitor
 =============
-An PPG monitor program use ads1115 through arduino microcontroller.  
-Communicate through USB serial port.
+PPG Monitor Using Photoelectric Capacitance Method  
+
+Hardware Requirement  
+-------------------  
+1. 850nm LED * 1  
+2. OPT101 * 1  
+3. ADS1115 development board * 1  
+4. Arduino development board * 1  
+5. PC  
 
 Features:  
 ----------
